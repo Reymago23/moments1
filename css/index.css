@@ -1,0 +1,13 @@
+.jumbotron{
+    background: #fafafa url(../imgs/happy.jpeg) no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    padding-top: ;
+}
+
+@media (max-width: 575.99px){
+    .display-4{
+        margin-top: 10px;
+        font-size: 120%;
+    }
+}
